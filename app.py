@@ -20,6 +20,11 @@ collection = db["flask_app"]
 def form():
     return render_template("form.html")
 
+@app.route('/todo')
+def todo():
+    return render_template('todo.html')
+
+
 
 # -------------------------
 # Handle Form Submission
