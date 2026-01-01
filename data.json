@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "API data updated from Tutedude_new branch",
+  "data": {
+    "name": "Flask API",
+    "version": "2.0",
+    "author": "Tutedude"
+  }
+}
